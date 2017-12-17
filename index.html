@@ -83,7 +83,7 @@
                     <div name="list" v-show="visible" >
                         <ul>
                             <li v-for="list in lists">
-                                <a href="{{list.index}}">{{list.title}}</a>
+                                <a v-bind:href="'/'+list.index">{{list.title}}</a>
                             </li>
                         </ul>
                     </div>
