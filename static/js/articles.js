@@ -14,7 +14,7 @@ let _articlenav=new Vue({
             {index:"a-preface-to-murder",title:"A Preface to Murder"},
             {index:"canada-becomes-a-nation",title:"Canada Becomes a Nation"},
             {index:"sky-watch",title:"Sky Watch"},
-            {index:"ythe-duet-tape",title:"YThe Duet Tape"},
+            {index:"the-duet-tape",title:"The Duet Tape"},
             {index:"norman-bethune-a-canadian-hero-in-china",title:"Norman Bethune: a Canadian Hero in China"},
             {index:"future-or-fantasy",title:"Future or Fantasy?"},
             {index:"the-ancient-olympics",title:"The Ancient Olympics"},
